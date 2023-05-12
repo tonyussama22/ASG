@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <math.h>
 
+
 int main()
 {
     int x, y, remainder, length = 0;
     int result = 0;
 
     printf("Enter an integer: ");
+    printf("hi Github");
     scanf("%d", &x);
 
     y = x;
