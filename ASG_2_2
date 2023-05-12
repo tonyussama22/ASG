@@ -9,6 +9,7 @@ int main()
 
     printf("Enter an integer: ");
     printf("hi Github");
+    printf("v2");
     scanf("%d", &x);
 
     y = x;
